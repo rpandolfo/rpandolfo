@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋, I'm Rosa Pandolfo
 
-<!--
-**rpandolfo/rpandolfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Technical Skills & Expertise
 
-Here are some ideas to get you started:
+**Data Analysis & Visualization:**  
+- Microsoft Excel (Data Analysis & Visualisation)  
+- Tableau  
+- Power BI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Programming & Data Processing:**  
+- Python (Pandas, Matplotlib, Seaborn)  
+
+**Databases:**  
+- Microsoft Access  
+- SQL  
+
+**Data Management & Architecture:**  
+- Data Structures  
+- Big Data  
+- Data Architecture & Governance  
+
+**Cloud Fundamentals:**  
+- Azure Fundamentals (Modules 1-4)  
+
+
+## 📫 Connect with Me
+- LinkedIn: [www.linkedin.com/in/rosa-pandolfo
+

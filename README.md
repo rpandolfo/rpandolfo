@@ -14,9 +14,9 @@
 
 ## ✨ About Me
 
-I am a results-driven professional with extensive experience across pharmaceuticals, real-world data, health technology, and market access. While on maternity leave, I proactively upskilled in data analytics, developing practical expertise in Excel, SQL, Python, Power BI, Tableau, and Azure.
+I am a results-driven professional with extensive experience in the pharmaceutical industry, specializing in project management, real-world data, and market access. During my maternity leave, I proactively upskilled in data analytics, gaining hands-on experience in Excel, SQL, Python, Power BI, Tableau, and Azure.
 
-I bring together domain knowledge in healthcare and advanced analytical skills to uncover meaningful insights from complex al world data, enabling evidence-based decisions that enhance business strategy and improve health outcomes.
+I combine domain expertise in project management and healthcare with strong analytical capabilities to transform complex real-world data into meaningful insights. My work supports evidence-based decision-making, strengthens business strategy, and contributes to improved health outcomes.
 
 ---
 

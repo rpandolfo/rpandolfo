@@ -14,9 +14,9 @@
 
 ## ✨ About Me
 
-I am a results-driven professional with a strong background in pharmaceuticals, real-world data, health technology, and market access. During my maternity leave, I pursued my passion for data by retraining as a **Data Analyst**, gaining practical experience in Excel, SQL, Python, Power BI, Tableau, and Azure.
+I am a results-driven professional with extensive experience across pharmaceuticals, real-world data, health technology, and market access. While on maternity leave, I proactively upskilled in data analytics, developing practical expertise in Excel, SQL, Python, Power BI, Tableau, and Azure.
 
-I combine healthcare expertise with analytical skills to turn complex data into actionable insights that support strategic decision-making and improve health outcomes.
+I bring together domain knowledge in healthcare and advanced analytical skills to uncover meaningful insights from complex al world data, enabling evidence-based decisions that enhance business strategy and improve health outcomes.
 
 ---
 
